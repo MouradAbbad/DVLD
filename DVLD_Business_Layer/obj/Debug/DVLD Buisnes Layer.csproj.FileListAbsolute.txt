@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\obj\Debug\DVLD Buisnes Layer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\obj\Debug\DVLD Buisnes Layer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\obj\Debug\Driving License Management Buisnes Layer.dll
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\obj\Debug\Driving License Management Buisnes Layer.pdb
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\bin\Debug\Driving License Management Buisnes Layer.dll
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\bin\Debug\Driving License Management Buisnes Layer.pdb
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\bin\Debug\Driving License Management Data Acces Layer.dll
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\bin\Debug\Driving License Management Data Acces Layer.pdb
+C:\Users\Administrator\Desktop\DVLD\Driving License Management Buisnes Layer\obj\Debug\DVLD Bui.0051385D.Up2Date

@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|c:\\users\\administrator\\desktop\\dvld\\driving license management\\test types\\manage test types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|solutionrelative:test types\\manage test types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|c:\\users\\administrator\\desktop\\dvld\\driving license management\\test types\\manage test types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|solutionrelative:test types\\manage test types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|c:\\users\\administrator\\desktop\\dvld\\driving license management\\test types\\edit test type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|solutionrelative:test types\\edit test type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\test types\\edit test type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B1F244-9183-48E1-A52F-24250AE2644A}|DVLD Interface Layer.csproj|solutionrelative:test types\\edit test type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage Test Types.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Manage Test Types.cs",
+              "RelativeDocumentMoniker": "Test Types\\Manage Test Types.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Manage Test Types.cs",
+              "RelativeToolTip": "Test Types\\Manage Test Types.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwBwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:26:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage Test Types.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Manage Test Types.cs",
+              "RelativeDocumentMoniker": "Test Types\\Manage Test Types.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Manage Test Types.cs [Design]",
+              "RelativeToolTip": "Test Types\\Manage Test Types.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:05:28.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit Test Type.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Edit Test Type.cs",
+              "RelativeDocumentMoniker": "Test Types\\Edit Test Type.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Edit Test Type.cs",
+              "RelativeToolTip": "Test Types\\Edit Test Type.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:52:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit Test Type.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Edit Test Type.cs",
+              "RelativeDocumentMoniker": "Test Types\\Edit Test Type.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\DVLD\\Driving License Management\\Test Types\\Edit Test Type.cs [Design]",
+              "RelativeToolTip": "Test Types\\Edit Test Type.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T17:30:54.681Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
